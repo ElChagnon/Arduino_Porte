@@ -42,7 +42,7 @@ void setup(){
 
 
 const String mdp = "123";
-String keyOk[]={"f2 c7 be cd","32 ac 68 d6","92 bf 79 d6"};
+String keyOk[]={"Clé 1","Clé 2","Clé 3"};
 String input_password;
 
 // Permet de définir les mots de passe valide pour ouvrir la port (ou allumer la led)
